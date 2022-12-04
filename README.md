@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MacManley
+- 👀 I’m interested in programming, Formula 1 and other stuff
+- 🌱 I’m currently learning SwiftUI & JavaScript
+- 💞️ I’m looking to collaborate on idk anything lol
+- 📫 How to reach me, Discord: MacManley#6793
