@@ -22,7 +22,7 @@ I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like
 #### Hardware
 [![ESP32](https://img.shields.io/badge/ESP32-E7352C?logo=esphome&logoColor=fff)](#)
 [![ESP8266](https://img.shields.io/badge/ESP8266-000000?logo=espressif&logoColor=white)](#)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff)](#)
 [![Arduino](https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff)](#)
 
 #### Frontend
