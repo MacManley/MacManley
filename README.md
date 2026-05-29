@@ -2,7 +2,7 @@
 
 #### Incoming Software UX Design Intern @ Logitech | 1st Year Engineering @ University College Cork
 
-I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like depending on the day. I work on projects in a variety of fields, spanning fields from renewable energy to rocketry.
+I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like depending on the day. I work on projects in a variety of fields, spanning renewable energy to rocketry.
 
 * 🗣️ Personal Projects: I work on racing simulator telemetry parsing for ESP32/ESP8266 devices for fun.
 * 💻 Hackathons: I've competed in an array of hackathons, including **HackEurope** and the **HEA SDG Hackathon**, winning €5K+ in prizes.
