@@ -4,7 +4,7 @@
 
 I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like depending on the day. I work on projects in a variety of fields, spanning renewable energy to rocketry.
 
-* 🗣️ Personal Projects: I work on racing simulator telemetry parsing for ESP32/ESP8266 devices for fun.
+* 🗣️ Personal Projects: I work on racing simulator telemetry parsing for ESP32/ESP8266 devices for fun. I have 7 libraries available for download via the Aruino Library Manager.
 * 💻 Hackathons: I've competed in an array of hackathons, including **HackEurope** and the **HEA SDG Hackathon**, winning €5K+ in prizes.
 * 💵 Entrepreneurial Endeavours: I am currently working on OnSite, the all-in-one app for tradespeople. The app debuted #100 on the App Store and is a finalist for UCC'S Student Entrepreneur of the Year competition.
 
