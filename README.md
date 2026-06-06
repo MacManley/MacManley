@@ -1,6 +1,6 @@
 ### Hello there! My name is [Nathan](https://nathanmanley.me).
 
-#### Incoming Software UX Design Intern @ Logitech | 1st Year Engineering @ University College Cork
+#### Software UX Design Intern @ Logitech | 1st Year Engineering @ University College Cork
 
 I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like depending on the day. I work on projects in a variety of fields, spanning renewable energy to rocketry.
 
