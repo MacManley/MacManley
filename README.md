@@ -1,12 +1,12 @@
 ### Hello there! My name is [Nathan](https://nathanmanley.me).
 
-#### Software UX Design Intern @ Logitech | 2nd Year Electrical and Electronic Engineering @ University College Cork | UCC Quercus Innovation and Entrepreneurship Scholar
+#### Software UX Designer @ Logitech | 2nd Year Electrical and Electronic Engineering @ University College Cork | UCC Quercus Innovation and Entrepreneurship Scholar
 
 I am a multi-hackathon winner, entrepreneur, innovator, and whatever I feel like depending on the day. I work on projects in a variety of fields, spanning renewable energy to rocketry.
 
 * 🗣️ Personal Projects: I work on racing simulator telemetry parsing for ESP32/ESP8266 devices for fun. I have 7 libraries available for download via the Aruino Library Manager.
 * 💻 Hackathons: I've competed in an array of hackathons, including **HackEurope** and the **HEA SDG Hackathon**, winning €5K+ in prizes
-* 💵 Entrepreneurial Endeavours: I am currently working on projects at Logitech, I plan to return to my own endeavours next semester..
+* 💵 Entrepreneurial Endeavours: I am currently working on projects at Logitech, I plan to return to my own endeavours next semester.
 
 ---
 ### Languages and Frameworks
